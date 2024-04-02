@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d3db558-9b3d-45a7-91cf-62619633f44c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/.idea/.idea.DevOps-Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/.idea/.idea.DevOps-Project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/.idea/.idea.DevOps-Project/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/.idea/.idea.DevOps-Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/DevOps-Project.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/DevOps-Project.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Helpers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Webpages.Deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Webpages.Razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Webpages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CSharp.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.Managed.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.VisualBasic.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.Win32.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.AppContext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Console.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Globalization.Calendars.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.IO.Compression.ZipFile.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.IO.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Net.Sockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Reflection.Metadata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Security.Cryptography.Encoding.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Security.Cryptography.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Text.Encoding.CodePages.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Xml.ReaderWriter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Xml.XPath.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Xml.XmlDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/VBCSCompiler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/VBCSCompiler.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csi.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csi.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/vbc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/vbc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/vbc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-App/devops/src/assets/Store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-App/devops/src/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-App/devops/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-App/devops/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-App/devops/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-App/devops/src/assets/Calendar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/src/assets/Calendar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-App/devops/src/assets/DevPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/src/assets/DevPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-App/devops/src/assets/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/src/assets/Login.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JSX File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bPXs263BqJc68GID2xiEY3NVwv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.change-password.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.dev-page.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.login-page.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.test.html.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.database.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.index-get.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.main.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.pages-get.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.server.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.test.js.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database-gestion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Dev&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;21.6.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.11.16&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/victoragahi/Documents/GitHub/devOps-project/React-App/devops/src/assets/db&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start start:gollumafaim.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/React-App/devops/src/assets/db" />
+      <recent name="$PROJECT_DIR$/React-App/devops/src/assets" />
+      <recent name="$PROJECT_DIR$/React/devops-project/src/assets/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/React-App/devops/src/assets" />
+      <recent name="$PROJECT_DIR$/React-App/devops/src/assets/db" />
+      <recent name="$PROJECT_DIR$/React-App" />
+      <recent name="$PROJECT_DIR$/React/devops-project/src/assets" />
+      <recent name="$PROJECT_DIR$/assets/database" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.pages-get.js">
+    <configuration name="pages-get.js" type="NodeJSConfigurationType" temporary="true" path-to-node="node" nameIsGenerated="true" path-to-js-file="pages-get.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="devOps-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assets/py" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assets/py/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.pages-get.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d3db558-9b3d-45a7-91cf-62619633f44c" name="Changes" comment="" />
+      <created>1706117892154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706117892154</updated>
+      <workItem from="1706117893224" duration="1334000" />
+      <workItem from="1706706368334" duration="6475000" />
+      <workItem from="1706714942704" duration="1243000" />
+      <workItem from="1706728508262" duration="18000" />
+      <workItem from="1707245841134" duration="7000" />
+      <workItem from="1707250763534" duration="698000" />
+      <workItem from="1707258862413" duration="5259000" />
+      <workItem from="1707264763630" duration="14868000" />
+      <workItem from="1707313304046" duration="8333000" />
+      <workItem from="1707345494184" duration="15000" />
+      <workItem from="1707359659294" duration="1529000" />
+      <workItem from="1707528004121" duration="5000" />
+      <workItem from="1707747245980" duration="9000" />
+      <workItem from="1707747269379" duration="27000" />
+      <workItem from="1707747537622" duration="11000" />
+      <workItem from="1707747602930" duration="33000" />
+      <workItem from="1707747803651" duration="7000" />
+      <workItem from="1707924575204" duration="624000" />
+      <workItem from="1708478469485" duration="15611000" />
+      <workItem from="1708539085484" duration="4448000" />
+      <workItem from="1709279404775" duration="284000" />
+      <workItem from="1709483054790" duration="628000" />
+      <workItem from="1709730771945" duration="2214000" />
+      <workItem from="1709733102775" duration="7546000" />
+      <workItem from="1710272710083" duration="390000" />
+      <workItem from="1710335439109" duration="9205000" />
+      <workItem from="1710373189535" duration="200000" />
+      <workItem from="1710373397078" duration="2071000" />
+      <workItem from="1710800888688" duration="602000" />
+      <workItem from="1710885887055" duration="605000" />
+      <workItem from="1710940162516" duration="8668000" />
+      <workItem from="1710962266040" duration="1328000" />
+      <workItem from="1711028418314" duration="82000" />
+      <workItem from="1711393121132" duration="1597000" />
+      <workItem from="1711444763908" duration="3000" />
+      <workItem from="1711466861882" duration="6627000" />
+      <workItem from="1711547978258" duration="2689000" />
+      <workItem from="1711554316293" duration="181000" />
+      <workItem from="1711987401456" duration="468000" />
+      <workItem from="1711987889151" duration="256000" />
+      <workItem from="1712060233924" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/devOps_project$test.coverage" NAME="test Coverage Results" MODIFIED="1707267045606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets/py" />
+    <SUITE FILE_PATH="coverage/devOps_project$database_gestion.coverage" NAME="database-gestion Coverage Results" MODIFIED="1707311263910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets/py" />
+  </component>
+</project>

@@ -31,7 +31,7 @@ function Calendar() {
                     <img src={f32} alt="logo"/>
                     <h1>Dorset College<br/>Calendar</h1>
                 </div>
-                <a href="./schedule-add">New Event</a>
+                <a href="/schedule-add">New Event</a>
                 <div className="course-box">
                     {courses.map((item)=>(
                         <div className="course">
@@ -46,7 +46,7 @@ function Calendar() {
                 <div className='c-topnav'>
                     <h1 className='mois'>{month}</h1>
                     <div className='c-nav'>
-                        <a href='#'>Assignments</a>
+                        <a href='./SubmitStu'>Assignments</a>
                         <a href='#'>1</a>
                         <a href='#'>2</a>
                         <a href='#'>3</a>
