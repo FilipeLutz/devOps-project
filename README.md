@@ -46,37 +46,15 @@ git clone https://github.com/Vini97Miranda/devOps-project.git
 Navigate to the project directory:
 
 ```
-cd devOps-project/React-app/api
+cd React-App/devops
 ```
 Running the Development Server
 To start the development server, run the following command:
 
 First if you are on Windows, execute this
 ```
-cd /d
-```
-Or on Linux / MAC 
-```
-pwd
-```
-Copy the path
-Then, execute this 2 commands to start the server
-```
-npm run gollum_va_faire_les_courses
+npm i
 ```
 ```
-npm run gollum_prend_un_cadie
+npm start
 ```
-Open a new terminal, execute :
-```
-cd <Ctrl V>/../devOps-project 
-```
-Then Start the App by using : 
-
-```
-npm run gollum_prend_des_frites
-```
-```
-npm run gollum_mange_le_carton
-```
-

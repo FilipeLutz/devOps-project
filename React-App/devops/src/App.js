@@ -10,6 +10,7 @@ import SubmitStu from "./assets/SubmitStu";
 import Calendar from "./assets/Calendar";
 import Grades from "./assets/Grades";
 import {setGlobalState,useGlobalState} from "./state";
+import AssignmentsPage from "./assets/AssignmentPage";
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
         { path: "/schedule-add", element: <ScheduleAdd /> },
         { path: "/SubmitStu", element: <SubmitStu /> },
         { path: "/devpage", element: <DevPage />},
+        { path: "/assignementPage", element: <AssignmentsPage />},
     ];
 
     return (

@@ -5,81 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d3db558-9b3d-45a7-91cf-62619633f44c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/.idea/.idea.DevOps-Project/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/.idea/.idea.DevOps-Project/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/.idea/.idea.DevOps-Project/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/.idea/.idea.DevOps-Project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/DevOps-Project.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/DevOps-Project.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Helpers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Razor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Webpages.Deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Webpages.Razor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/System.Web.Webpages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CSharp.Core.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.CodeAnalysis.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.Managed.Core.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.VisualBasic.Core.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/Microsoft.Win32.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.AppContext.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Collections.Immutable.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Console.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Diagnostics.StackTrace.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Globalization.Calendars.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.IO.Compression.ZipFile.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.IO.Compression.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.IO.FileSystem.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.IO.FileSystem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Net.Http.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Net.Sockets.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Reflection.Metadata.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Security.Cryptography.Encoding.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Security.Cryptography.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Text.Encoding.CodePages.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Threading.Tasks.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.ValueTuple.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Xml.ReaderWriter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Xml.XPath.XDocument.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Xml.XPath.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/System.Xml.XmlDocument.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/VBCSCompiler.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/VBCSCompiler.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csc.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csc.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csi.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csi.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/csi.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/vbc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/vbc.exe.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/bin/roslyn/vbc.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-App/devops/src/assets/Store/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-App/devops/src/state.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DevOps-Project/obj/Debug/DevOps-Project.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-App/devops/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-App/devops/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/React-App/devops/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/React-App/devops/src/assets/Calendar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/src/assets/Calendar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-App/devops/src/assets/DevPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/src/assets/DevPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-App/devops/src/assets/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/src/assets/Login.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +170,8 @@
       <workItem from="1711554316293" duration="181000" />
       <workItem from="1711987401456" duration="468000" />
       <workItem from="1711987889151" duration="256000" />
-      <workItem from="1712060233924" duration="229000" />
+      <workItem from="1712060233924" duration="307000" />
+      <workItem from="1712147018567" duration="290000" />
     </task>
     <servers />
   </component>
