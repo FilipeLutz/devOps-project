@@ -47,7 +47,7 @@ function Calendar() {
                     <h1 className='mois'>{month}</h1>
                     <div className='c-nav'>
                         <a href='./SubmitStu'>Assignments</a>
-                        <a href='./assignementPage'>1</a>
+                        <a href='./assignementPage'>List of Assignments</a>
                         <a href='#'>2</a>
                         <a href='#'>3</a>
                     </div>

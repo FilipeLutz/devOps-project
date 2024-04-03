@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d3db558-9b3d-45a7-91cf-62619633f44c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/React-App/devops/src/assets/Calendar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/src/assets/Calendar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React-App/devops/src/assets/css/calendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/React-App/devops/src/assets/css/calendar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +168,7 @@
       <workItem from="1711987401456" duration="468000" />
       <workItem from="1711987889151" duration="256000" />
       <workItem from="1712060233924" duration="307000" />
-      <workItem from="1712147018567" duration="456000" />
+      <workItem from="1712147018567" duration="586000" />
     </task>
     <servers />
   </component>
