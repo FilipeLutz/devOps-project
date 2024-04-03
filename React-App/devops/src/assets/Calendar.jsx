@@ -61,7 +61,7 @@ function Calendar() {
                     {days.map((item)=>(
                         item == 0 && <div className='caseJour' style={{
                             visibility: "hidden"}}></div> ||
-                        item == day && <div className='caseJour' style={{color: "red"}}>{item}</div> ||
+                        item == day && <div className='caseJour' style={{color: "yellow"}}>{item}</div> ||
                         <div className='caseJour'>{item}</div>
                     ))
                     }
