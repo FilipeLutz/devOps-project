@@ -48,22 +48,59 @@ function Calendar() {
                     <div className='c-nav'>
                         <a href='./SubmitStu'>Assignments</a>
                         <a href='./assignementPage'>List of Assignments</a>
-                        <a href='#'>2</a>
-                        <a href='#'>3</a>
                     </div>
                 </div>
                 <div className="bar"></div>
                 <div className="grille">
-                    {week.map((item)=>(
-                        <p className='jourSemaine'>{item}</p>
+                    {week.map((item) => (
+                        <p key={item} className='jourSemaine'>{item}</p>
                     ))}
 
-                    {days.map((item)=>(
-                        item == 0 && <div className='caseJour' style={{
-                            visibility: "hidden"}}></div> ||
-                        item == day && <div className='caseJour' style={{color: "yellow"}}>{item}</div> ||
-                        <div className='caseJour'>{item}</div>
-                    ))
+                    {days.map((item) => {
+
+                    if (item === 0) {
+                        return <div key={item} className='caseJour' style={{ visibility: 'hidden' }}></div>;
+                    }
+                            if(item === 9 ||item === 23)
+                            {
+                                return <div key={item} className='caseJour' style={{
+                                    background: 'green',
+                                    color:'white',
+
+                                }}>{item}</div>;
+                            }
+                            if(item === 29 ||item === 22 ||item === 17 || item === 13 )
+                            {
+                                return <div key={item} className='caseJour' style={{
+                                    background: 'orange',
+                                    color:'white',
+
+                                }}>{item}</div>;
+                            }
+                    if(item === 14 || item === 15 || item === 26)
+                    {
+                        return <div key={item} className='caseJour' style={{
+                            background: 'yellow',
+                            color:'black',
+
+                        }}>{item}</div>;
+                    }
+                    else  if(item === 11 || item === 20)
+                            {
+                                return <div key={item} className='caseJour' style={{
+                                    background: 'red',
+                                    color:'white',
+                                }}>{item}</div>;
+                            }
+                    else if (item === day) {
+                        return <div key={item} className='caseJour' style={{ color: 'orange' }}>{item}</div>;
+                    }
+                    else
+                    {
+
+                        return <div key={item} className='caseJour'>{item}</div>;
+                    }}
+                    )
                     }
                 </div>
             </div>
